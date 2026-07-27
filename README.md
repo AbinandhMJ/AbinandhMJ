@@ -1,10 +1,28 @@
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://github.com/AbinandhMJ/AbinandhMJ/assets/99226172/f8cd1a50-1ed2-4767-95d6-b583b2fa9d3a)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/AbinandhMJ/AbinandhMJ/assets/99226172/f8cd1a50-1ed2-4767-95d6-b583b2fa9d3a" alt="Banner"/>
+</p>
 
-### 💫 About Me:
+<h1 align="center">Hi 👋, I'm Abinandh Murukesan</h1>
 
-- 🔭 I’m currently working on Software Development at a Healthcare Tech Startup
-- ⚡ Excited to learn more and code more!
+<h3 align="center">
+Software Engineer • Startup Founder • Angular Developer • Building Enterprise SaaS
+</h3>
 
+<p align="center">
+Passionate about building scalable enterprise applications, modern UI/UX, workflow automation, and creating products that solve real-world business problems.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 Software Engineer working on Enterprise ERP solutions
+- 🚀 Founder of **Algotricz**, building next-generation SaaS products
+- ⚡ Currently developing **TowerOps** – AI-powered Infrastructure Operations Platform
+- 🏗 Building enterprise-grade applications using **Angular**, **Spring Boot**, and **SAP Integration**
+- 🌱 Continuously learning System Design, Cloud Architecture, AI and Product Engineering
+- 🎯 Goal: Build products that scale globally and create long-term impact
 
 ### 🌐 Connect with Me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinandhmj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18146616/abinandh-mj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abinandh_mj) [![Codepen](https://img.shields.io/badge/CODEPEN-100000?style=flat&logo=codepen&logoColor=white&labelColor=000000&color=000000)](https://codepen.io/AbinandhMJ) 
